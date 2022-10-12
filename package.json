@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/JarredStanford/graphQL#readme",
   "dependencies": {
-    "apollo-server": "^2.9.13",
+    "apollo-server": "^2.25.4",
     "dotenv": "^8.2.0",
     "graphql": "^14.5.8",
     "lodash": "^4.17.15",
